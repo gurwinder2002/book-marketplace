@@ -10,7 +10,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 
 export default function Books() {
-  const [searchBook, setSearchBook] = useState("");
+  const [searchBook, setSearchBook] = useState("hello");
   const [cartBooks, setCartBooks] = useState<any[]>([]);
   const [books, setBooks] = useState<any[]>([]);
 

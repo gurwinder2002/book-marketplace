@@ -1,0 +1,158 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Introduction to Computer Science",
+      "author": "David Evans",
+      "category": "Computer Science",
+      "isbn": "9780980331607"
+    },
+    {
+      "id": 2,
+      "name": "Computer Networking: A Top-Down Approach",
+      "author": "James Kurose",
+      "category": "Computer Science",
+      "isbn": "9780136681557"
+    },
+    {
+      "id": 3,
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Software Engineering",
+      "isbn": "9780132350884"
+    },
+    {
+      "id": 4,
+      "name": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "category": "Software Engineering",
+      "isbn": "9780135957059"
+    },
+    {
+      "id": 5,
+      "name": "Calculus: Early Transcendentals",
+      "author": "James Stewart",
+      "category": "Mathematics",
+      "isbn": "9781285741550"
+    },
+    {
+      "id": 6,
+      "name": "Discrete Mathematics and Its Applications",
+      "author": "Kenneth Rosen",
+      "category": "Mathematics",
+      "isbn": "9781259676512"
+    },
+    {
+      "id": 7,
+      "name": "University Physics",
+      "author": "Hugh Young",
+      "category": "Physics",
+      "isbn": "9780135159552"
+    },
+    {
+      "id": 8,
+      "name": "Campbell Biology",
+      "author": "Lisa Urry",
+      "category": "Biology",
+      "isbn": "9780135188743"
+    },
+    {
+      "id": 9,
+      "name": "Chemistry: The Central Science",
+      "author": "Theodore Brown",
+      "category": "Chemistry",
+      "isbn": "9780134414232"
+    },
+    {
+      "id": 10,
+      "name": "Principles of Economics",
+      "author": "N. Gregory Mankiw",
+      "category": "Economics",
+      "isbn": "9780357541593"
+    },
+    {
+      "id": 11,
+      "name": "Financial Accounting",
+      "author": "Robert Libby",
+      "category": "Accounting",
+      "isbn": "9781260247947"
+    },
+    {
+      "id": 12,
+      "name": "Marketing Management",
+      "author": "Philip Kotler",
+      "category": "Marketing",
+      "isbn": "9780135887158"
+    },
+    {
+      "id": 13,
+      "name": "Organizational Behavior",
+      "author": "Stephen Robbins",
+      "category": "Business",
+      "isbn": "9780134729329"
+    },
+    {
+      "id": 14,
+      "name": "Psychology",
+      "author": "David Myers",
+      "category": "Psychology",
+      "isbn": "9781319132101"
+    },
+    {
+      "id": 15,
+      "name": "Sociology",
+      "author": "John Macionis",
+      "category": "Sociology",
+      "isbn": "9780137874921"
+    },
+    {
+      "id": 16,
+      "name": "The American Pageant",
+      "author": "David Kennedy",
+      "category": "History",
+      "isbn": "9781337915571"
+    },
+    {
+      "id": 17,
+      "name": "Writing Today",
+      "author": "Richard Johnson-Sheehan",
+      "category": "English",
+      "isbn": "9780134759739"
+    },
+    {
+      "id": 18,
+      "name": "Introduction to Algorithms",
+      "author": "Thomas Cormen",
+      "category": "Computer Science",
+      "isbn": "9780262046305"
+    },
+    {
+      "id": 19,
+      "name": "Database System Concepts",
+      "author": "Abraham Silberschatz",
+      "category": "Computer Science",
+      "isbn": "9780078022159"
+    },
+    {
+      "id": 20,
+      "name": "Operating System Concepts",
+      "author": "Abraham Silberschatz",
+      "category": "Computer Science",
+      "isbn": "9781119800361"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userId": "user1",
+      "username": "gary",
+      "password": "test1"
+    },
+    {
+      "id": 2,
+      "userId": "user2",
+      "username": "john",
+      "password": "test2"
+    }
+  ]
+}

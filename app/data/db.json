@@ -1,158 +1,188 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Introduction to Computer Science",
       "author": "David Evans",
       "category": "Computer Science",
-      "isbn": "9780980331607"
+      "isbn": "9780980331607",
+      "userId": "user1"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Computer Networking: A Top-Down Approach",
       "author": "James Kurose",
       "category": "Computer Science",
-      "isbn": "9780136681557"
+      "isbn": "9780136681557",
+      "userId": "user2"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Clean Code",
       "author": "Robert C. Martin",
       "category": "Software Engineering",
-      "isbn": "9780132350884"
+      "isbn": "9780132350884",
+      "userId": "user3"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Pragmatic Programmer",
       "author": "David Thomas",
       "category": "Software Engineering",
-      "isbn": "9780135957059"
+      "isbn": "9780135957059",
+      "userId": "user1"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Calculus: Early Transcendentals",
       "author": "James Stewart",
       "category": "Mathematics",
-      "isbn": "9781285741550"
+      "isbn": "9781285741550",
+      "userId": "user2"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Discrete Mathematics and Its Applications",
       "author": "Kenneth Rosen",
       "category": "Mathematics",
-      "isbn": "9781259676512"
+      "isbn": "9781259676512",
+      "userId": "user3"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "University Physics",
       "author": "Hugh Young",
       "category": "Physics",
-      "isbn": "9780135159552"
+      "isbn": "9780135159552",
+      "userId": "user1"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Campbell Biology",
       "author": "Lisa Urry",
       "category": "Biology",
-      "isbn": "9780135188743"
+      "isbn": "9780135188743",
+      "userId": "user2"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Chemistry: The Central Science",
       "author": "Theodore Brown",
       "category": "Chemistry",
-      "isbn": "9780134414232"
+      "isbn": "9780134414232",
+      "userId": "user3"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Principles of Economics",
       "author": "N. Gregory Mankiw",
       "category": "Economics",
-      "isbn": "9780357541593"
+      "isbn": "9780357541593",
+      "userId": "user1"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Financial Accounting",
       "author": "Robert Libby",
       "category": "Accounting",
-      "isbn": "9781260247947"
+      "isbn": "9781260247947",
+      "userId": "user2"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Marketing Management",
       "author": "Philip Kotler",
       "category": "Marketing",
-      "isbn": "9780135887158"
+      "isbn": "9780135887158",
+      "userId": "user3"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Organizational Behavior",
       "author": "Stephen Robbins",
       "category": "Business",
-      "isbn": "9780134729329"
+      "isbn": "9780134729329",
+      "userId": "user1"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Psychology",
       "author": "David Myers",
       "category": "Psychology",
-      "isbn": "9781319132101"
+      "isbn": "9781319132101",
+      "userId": "user2"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Sociology",
       "author": "John Macionis",
       "category": "Sociology",
-      "isbn": "9780137874921"
+      "isbn": "9780137874921",
+      "userId": "user3"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "The American Pageant",
       "author": "David Kennedy",
       "category": "History",
-      "isbn": "9781337915571"
+      "isbn": "9781337915571",
+      "userId": "user1"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Writing Today",
       "author": "Richard Johnson-Sheehan",
       "category": "English",
-      "isbn": "9780134759739"
+      "isbn": "9780134759739",
+      "userId": "user2"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Introduction to Algorithms",
       "author": "Thomas Cormen",
       "category": "Computer Science",
-      "isbn": "9780262046305"
+      "isbn": "9780262046305",
+      "userId": "user3"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Database System Concepts",
       "author": "Abraham Silberschatz",
       "category": "Computer Science",
-      "isbn": "9780078022159"
+      "isbn": "9780078022159",
+      "userId": "user1"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Operating System Concepts",
       "author": "Abraham Silberschatz",
       "category": "Computer Science",
-      "isbn": "9781119800361"
+      "isbn": "9781119800361",
+      "userId": "user2"
     }
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "userId": "user1",
       "username": "gary",
-      "password": "test1"
+      "password": "test1",
+      "role": "user"
     },
     {
-      "id": 2,
+      "id": "2",
       "userId": "user2",
       "username": "john",
-      "password": "test2"
+      "password": "test2",
+      "role": "user"
+    },
+    {
+      "userId": "user3",
+      "username": "test",
+      "password": "test",
+      "role": "user",
+      "id": "tp6BcMe42Uk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
